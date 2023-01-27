@@ -35,6 +35,60 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "Coco",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 15
     }
   ]
 }
